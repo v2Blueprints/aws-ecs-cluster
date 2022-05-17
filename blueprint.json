@@ -1,13 +1,15 @@
-{   
-   "identifier": "aws_ecs_cluster",
-   "about": {
-      "title": "AWS ECS cluster",
-      "explanation": "AWS Elastic Container Clutser"
-   },
-   "compute_service": {
-      "default": {"identifier": "container_service"}
-   },   
-   "configuration": {     
-    "name"  : "binding-identifier"
-   }
+{
+	"identifier": "aws_ecs_cluster",
+	"about": {
+		"title": "AWS ECS cluster",
+		"explanation": "AWS Elastic Container Cluster"
+	},
+	"compute_service": {
+		"default": {
+			"identifier": "container_service"
+		}
+	},
+	"configuration": {
+		"name": "binding-identifier"
+	}
 }

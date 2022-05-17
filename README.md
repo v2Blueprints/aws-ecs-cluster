@@ -1,2 +1,1 @@
-# aws-ecs    
-https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/ecs_service
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/ecs_cluster
