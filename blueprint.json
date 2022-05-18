@@ -10,6 +10,7 @@
 		}
 	},
 	"configuration": {
-		"name": "binding-identifier"
+		"name": "^^binding-identifier^^",
+		"value" : "enabled"
 	}
 }
