@@ -1,5 +1,5 @@
 {
-	"identifier": "aws_ecs_cluster",
+	"identifier": "aws-ecs-cluster",
 	"about": {
 		"title": "AWS ECS cluster",
 		"explanation": "AWS Elastic Container Cluster"
